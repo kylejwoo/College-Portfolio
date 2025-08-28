@@ -29,3 +29,29 @@ This project focuses on the design and integration of the **electrical architect
 - Field testing and debugging in real-world environments  
 
 ---
+
+## 📸 Photos
+
+### Current Limiting Power Circuit – Schematic  
+![Current Limiting Circuit](./images/current_limit_schematic.png)  
+This schematic shows the **current-limiting circuit** for the AUV’s power distribution system. Using the LTC1255 driver and MOSFET configuration, the circuit shuts down when current exceeds a safe threshold, protecting thrusters and electronics from overcurrent conditions. Rsense is calibrated to set the maximum current, and delays ensure stability during transients.  
+
+---
+
+### Electronics Bay Assembly  
+![Electronics Bay](./images/electronics_bay.png)  
+Inside the **waterproof electronics bay**, custom PCBs distribute power and signals to thrusters and sensors. The boards are stacked compactly to maximize space, with careful routing of wires to minimize interference. Red and green status LEDs verify live power rails and communication integrity during testing.  
+
+---
+
+### Pool Test – Live Submersible  
+![AUV Pool Test](./images/auv_pool_test.png)  
+The AUV undergoes its **first live pool test** with all subsystems powered. Thrusters, sensors, and communication boards are fully operational, while buoyancy is tuned with foam sections for stability. Bright internal LEDs confirm the health of power distribution boards during runtime.  
+
+---
+
+### Thruster and Cable Integration  
+![Thruster Wiring](./images/auv_thruster_side.png)  
+Close-up of thruster wiring and external connectors for the AUV. Each thruster is driven by Blue Robotics ESCs connected to custom PCB boards inside the pressure housing. Waterproof bulkhead connectors route power and control signals from the electronics bay to the thrusters.  
+
+---
