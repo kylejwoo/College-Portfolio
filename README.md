@@ -6,8 +6,8 @@ Interests: PCB design, embedded systems, power electronics, and robotics.
 
 ## Projects
 - [Autonomous Underwater Vehicle (AUV) – Custom PCB + Electrical Architecture](./AUV/README.md)  
-- [Flexible MRI Coil Research – Impedance Matching & Phase Shifting](./Khan Lab MRI project/README.md)  
-- [Drone Control with Vicon + ROS2](./SIA Drone Lab/README.md)  
+- [Flexible MRI Coil Research – Impedance Matching & Phase Shifting](./Khan_Lab_MRI_project/README.md)  
+- [Drone Control with Vicon + ROS2](./SIA_Drone_Lab/README.md)  
 
 ## Skills
 - **PCB Design Tools:** Altium Designer, KiCad  
