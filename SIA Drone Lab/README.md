@@ -1,4 +1,4 @@
-# Drone Project – Vicon Motion Capture & ROS2 Integration
+# Safe and Intelligent Autonomy Lab Drone Project – Vicon Motion Capture & ROS2 Integration
 
 ## Overview
 This project focuses on real-time control of a quadrotor drone using a **Vicon motion capture system** integrated with **ROS2** for communication and control. The goal is to achieve reliable autonomous flight by combining precise positional tracking with flexible real-time software frameworks.
