@@ -21,6 +21,9 @@ This project focuses on real-time control of a quadrotor drone using a **Vicon m
 - Reduced control latency to **<30 ms**, enabling accurate trajectory tracking.  
 - Successfully demonstrated autonomous hovering and trajectory following in a lab environment.  
 
+![Curve Research Poster](./SIA%20CURVE%20Poster.png)
+
+
 ## Skills Gained
 - ROS2 development and real-time communication  
 - Middleware integration for autonomous systems  
