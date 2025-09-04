@@ -1,7 +1,7 @@
 # Kyle Woo – Engineering Portfolio
 
 ## About Me
-Electrical & Computer Engineering student at USC pursuing hardware-focused internships. 
+Master’s Degree candidate in Electrical & Computer Engineering at USC pursuing hardware-focused internships. 
 Interests: PCB design, embedded systems, power electronics, and robotics.
 
 ## Projects
