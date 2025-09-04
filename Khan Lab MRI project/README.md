@@ -21,6 +21,9 @@ This research project focuses on the design and optimization of **flexible MRI c
 - Achieved **successful phase shifting** for MRI coil alignment, improving imaging quality.  
 - Developed a working prototype of an **EKG acquisition system** integrated with custom PCB hardware.  
 
+
+![Curve Research Fair Poster](./CURVE%20Research%20Poster.jpg)
+
 ## Skills Gained
 - PCB design and fabrication (Altium + Voltera)  
 - Impedance matching and RF circuit analysis  
